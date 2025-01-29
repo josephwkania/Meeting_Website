@@ -228,6 +228,13 @@ input, select, textarea {
 		font-size: 0.8em;
 	}
 
+    .my-section {
+        width: 500px;
+        margin: 20px auto;
+        padding; 20px;
+        text-align: left;
+    }
+
 /* Container */
 
 	.container {
