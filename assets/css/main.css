@@ -32,6 +32,7 @@ body {
 	line-height: 1;
 }
 
+
 ol, ul {
 	list-style: none;
 }
@@ -226,6 +227,13 @@ input, select, textarea {
 		color: rgba(192, 192, 192, 0.85);
 		font-size: 0.8em;
 	}
+
+    .my-section {
+        max-width: 70%;
+        margin: 20px auto;
+        padding; 20px;
+        text-align: left;
+    }
 
 /* Container */
 
