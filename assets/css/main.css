@@ -229,7 +229,7 @@ input, select, textarea {
 	}
 
     .my-section {
-        width: 500px;
+        max-width: 70%;
         margin: 20px auto;
         padding; 20px;
         text-align: left;
